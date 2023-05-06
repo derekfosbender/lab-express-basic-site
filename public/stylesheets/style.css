@@ -1,0 +1,30 @@
+.header1 {
+    color: rgb(90, 138, 112);
+    text-align: center;
+}
+.self {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 400px;
+    
+}
+a {
+    color: rgb(224, 200, 169);
+    text-align: center;
+    display: block;
+}
+h1 {
+    color: rgb(90, 138, 112);;
+    text-align: center;
+}
+ul {
+    color: rgb(129, 118, 103);
+    text-align: center;
+    list-style: inside;
+}
+h3 {
+    color: rgb(129, 118, 103);
+    text-align: center;
+}
